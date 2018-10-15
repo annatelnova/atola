@@ -1,0 +1,9 @@
+com\kit\core\Browser.class
+com\kit\core\WebDriverTestBase$1.class
+com\kit\pages\GmailPagePassword.class
+com\kit\core\WebDriverTestBase.class
+com\kit\pages\GmailAfterSignin.class
+com\kit\pages\GmailPageLogin.class
+com\kit\util\PropertiesCache.class
+com\kit\pages\GooglePage.class
+com\kit\util\WebDriverUtil.class
